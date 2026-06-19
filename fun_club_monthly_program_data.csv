@@ -1,0 +1,281 @@
+Month,Program Area,Students Participated,Instructional Sessions,Volunteer Hours
+2020-09,English Learning,9,2,8.5
+2020-09,Technology Skills,5,3,6.9
+2020-09,College Prep,3,2,3.4
+2020-09,Mentorship,4,1,1.5
+2020-10,English Learning,11,2,10.7
+2020-10,Technology Skills,5,1,3.6
+2020-10,College Prep,3,1,2.1
+2020-10,Mentorship,3,2,3.4
+2020-11,English Learning,12,2,10.3
+2020-11,Technology Skills,6,1,3.0
+2020-11,College Prep,2,2,2.0
+2020-11,Mentorship,4,2,3.8
+2020-12,English Learning,6,3,8.8
+2020-12,Technology Skills,4,2,4.0
+2020-12,College Prep,5,1,3.7
+2020-12,Mentorship,2,2,1.7
+2021-01,English Learning,13,4,31.2
+2021-01,Technology Skills,3,1,1.9
+2021-01,College Prep,4,2,5.1
+2021-01,Mentorship,7,1,3.8
+2021-02,English Learning,13,4,38.3
+2021-02,Technology Skills,9,2,9.7
+2021-02,College Prep,3,1,2.0
+2021-02,Mentorship,2,2,1.6
+2021-03,English Learning,6,3,12.0
+2021-03,Technology Skills,6,3,10.1
+2021-03,College Prep,2,1,1.3
+2021-03,Mentorship,2,2,2.7
+2021-04,English Learning,10,2,8.4
+2021-04,Technology Skills,7,2,8.9
+2021-04,College Prep,4,2,4.4
+2021-04,Mentorship,3,1,2.0
+2021-05,English Learning,11,2,8.1
+2021-05,Technology Skills,8,2,8.3
+2021-05,College Prep,8,2,11.6
+2021-05,Mentorship,8,1,5.5
+2021-06,English Learning,13,3,26.1
+2021-06,Technology Skills,3,1,1.7
+2021-06,College Prep,4,1,2.2
+2021-06,Mentorship,3,2,3.4
+2021-07,English Learning,9,2,13.4
+2021-07,Technology Skills,8,3,16.5
+2021-07,College Prep,6,1,2.5
+2021-07,Mentorship,6,1,2.5
+2021-08,English Learning,12,2,9.3
+2021-08,Technology Skills,6,2,5.8
+2021-08,College Prep,5,1,3.7
+2021-08,Mentorship,5,1,1.8
+2021-09,English Learning,15,2,14.7
+2021-09,Technology Skills,8,2,6.4
+2021-09,College Prep,7,2,8.8
+2021-09,Mentorship,6,2,5.9
+2021-10,English Learning,7,3,9.0
+2021-10,Technology Skills,5,1,2.4
+2021-10,College Prep,2,1,1.3
+2021-10,Mentorship,6,2,6.0
+2021-11,English Learning,9,3,12.4
+2021-11,Technology Skills,8,3,8.4
+2021-11,College Prep,4,2,4.7
+2021-11,Mentorship,2,1,1.4
+2021-12,English Learning,13,4,38.8
+2021-12,Technology Skills,7,3,13.4
+2021-12,College Prep,4,2,3.8
+2021-12,Mentorship,6,2,4.8
+2022-01,English Learning,19,3,30.5
+2022-01,Technology Skills,5,2,6.5
+2022-01,College Prep,4,2,4.8
+2022-01,Mentorship,7,1,4.0
+2022-02,English Learning,13,2,14.4
+2022-02,Technology Skills,4,3,6.9
+2022-02,College Prep,3,1,1.2
+2022-02,Mentorship,7,2,6.5
+2022-03,English Learning,16,3,25.6
+2022-03,Technology Skills,5,1,3.3
+2022-03,College Prep,7,1,4.1
+2022-03,Mentorship,10,1,7.4
+2022-04,English Learning,15,3,26.6
+2022-04,Technology Skills,12,2,11.5
+2022-04,College Prep,6,1,2.5
+2022-04,Mentorship,9,2,8.1
+2022-05,English Learning,18,2,21.2
+2022-05,Technology Skills,7,2,9.6
+2022-05,College Prep,4,1,2.9
+2022-05,Mentorship,6,2,7.6
+2022-06,English Learning,14,4,25.7
+2022-06,Technology Skills,11,3,13.5
+2022-06,College Prep,6,2,8.8
+2022-06,Mentorship,6,1,3.9
+2022-07,English Learning,19,2,16.9
+2022-07,Technology Skills,10,1,6.8
+2022-07,College Prep,8,2,8.4
+2022-07,Mentorship,8,1,5.6
+2022-08,English Learning,17,2,18.3
+2022-08,Technology Skills,11,2,12.1
+2022-08,College Prep,5,1,2.3
+2022-08,Mentorship,10,1,6.6
+2022-09,English Learning,14,4,27.9
+2022-09,Technology Skills,14,1,9.9
+2022-09,College Prep,7,1,3.0
+2022-09,Mentorship,8,2,10.9
+2022-10,English Learning,18,4,41.3
+2022-10,Technology Skills,8,3,14.7
+2022-10,College Prep,5,2,7.1
+2022-10,Mentorship,9,2,7.4
+2022-11,English Learning,17,4,36.5
+2022-11,Technology Skills,8,3,15.5
+2022-11,College Prep,6,2,4.5
+2022-11,Mentorship,7,2,7.7
+2022-12,English Learning,22,2,23.3
+2022-12,Technology Skills,10,2,9.0
+2022-12,College Prep,6,2,8.8
+2022-12,Mentorship,8,1,3.9
+2023-01,English Learning,16,4,34.5
+2023-01,Technology Skills,8,1,4.1
+2023-01,College Prep,2,2,2.4
+2023-01,Mentorship,5,2,3.8
+2023-02,English Learning,24,2,18.7
+2023-02,Technology Skills,12,3,26.9
+2023-02,College Prep,8,2,10.3
+2023-02,Mentorship,14,2,17.8
+2023-03,English Learning,21,4,55.2
+2023-03,Technology Skills,12,3,24.2
+2023-03,College Prep,7,2,5.1
+2023-03,Mentorship,8,1,5.5
+2023-04,English Learning,20,2,29.3
+2023-04,Technology Skills,9,3,19.1
+2023-04,College Prep,9,2,9.8
+2023-04,Mentorship,11,2,16.5
+2023-05,English Learning,18,2,25.9
+2023-05,Technology Skills,9,2,13.2
+2023-05,College Prep,5,2,6.5
+2023-05,Mentorship,8,2,10.9
+2023-06,English Learning,19,3,38.8
+2023-06,Technology Skills,10,2,11.5
+2023-06,College Prep,7,2,5.1
+2023-06,Mentorship,6,1,2.3
+2023-07,English Learning,18,2,16.2
+2023-07,Technology Skills,10,3,21.7
+2023-07,College Prep,6,1,3.1
+2023-07,Mentorship,10,2,9.5
+2023-08,English Learning,26,2,20.8
+2023-08,Technology Skills,15,1,7.5
+2023-08,College Prep,9,2,7.4
+2023-08,Mentorship,10,2,13.4
+2023-09,English Learning,29,2,42.1
+2023-09,Technology Skills,16,3,30.1
+2023-09,College Prep,10,2,14.2
+2023-09,Mentorship,10,2,13.4
+2023-10,English Learning,24,3,46.1
+2023-10,Technology Skills,13,3,25.9
+2023-10,College Prep,8,1,6.0
+2023-10,Mentorship,11,2,10.9
+2023-11,English Learning,21,3,46.4
+2023-11,Technology Skills,7,3,12.0
+2023-11,College Prep,4,2,5.6
+2023-11,Mentorship,10,1,5.2
+2023-12,English Learning,20,4,39.4
+2023-12,Technology Skills,13,2,17.5
+2023-12,College Prep,7,1,4.9
+2023-12,Mentorship,10,2,9.4
+2024-01,English Learning,24,4,53.9
+2024-01,Technology Skills,11,2,11.8
+2024-01,College Prep,4,2,4.5
+2024-01,Mentorship,14,1,7.0
+2024-02,English Learning,24,2,27.6
+2024-02,Technology Skills,16,1,9.8
+2024-02,College Prep,7,1,4.0
+2024-02,Mentorship,8,1,3.2
+2024-03,English Learning,25,3,50.1
+2024-03,Technology Skills,15,3,22.8
+2024-03,College Prep,8,1,5.9
+2024-03,Mentorship,12,1,4.8
+2024-04,English Learning,23,3,36.8
+2024-04,Technology Skills,15,2,12.4
+2024-04,College Prep,10,2,11.2
+2024-04,Mentorship,13,2,17.3
+2024-05,English Learning,29,4,79.2
+2024-05,Technology Skills,14,1,6.7
+2024-05,College Prep,10,2,10.6
+2024-05,Mentorship,9,1,3.3
+2024-06,English Learning,25,3,27.8
+2024-06,Technology Skills,16,1,9.9
+2024-06,College Prep,11,2,11.9
+2024-06,Mentorship,12,2,9.3
+2024-07,English Learning,29,4,55.4
+2024-07,Technology Skills,13,1,7.4
+2024-07,College Prep,12,1,4.6
+2024-07,Mentorship,11,2,8.1
+2024-08,English Learning,32,2,41.9
+2024-08,Technology Skills,19,3,26.3
+2024-08,College Prep,10,1,3.6
+2024-08,Mentorship,13,2,17.7
+2024-09,English Learning,30,4,75.5
+2024-09,Technology Skills,17,2,13.8
+2024-09,College Prep,10,2,12.2
+2024-09,Mentorship,12,2,9.0
+2024-10,English Learning,25,4,68.0
+2024-10,Technology Skills,16,1,6.6
+2024-10,College Prep,5,1,1.8
+2024-10,Mentorship,13,2,9.5
+2024-11,English Learning,28,3,59.1
+2024-11,Technology Skills,14,2,14.5
+2024-11,College Prep,11,1,6.4
+2024-11,Mentorship,13,1,5.4
+2024-12,English Learning,36,4,55.6
+2024-12,Technology Skills,20,2,26.1
+2024-12,College Prep,7,1,4.4
+2024-12,Mentorship,10,1,6.0
+2025-01,English Learning,32,4,71.6
+2025-01,Technology Skills,19,2,21.8
+2025-01,College Prep,12,2,15.3
+2025-01,Mentorship,15,2,19.5
+2025-02,English Learning,31,4,44.6
+2025-02,Technology Skills,18,1,6.7
+2025-02,College Prep,11,2,8.0
+2025-02,Mentorship,19,2,15.5
+2025-03,English Learning,30,3,45.4
+2025-03,Technology Skills,17,3,28.8
+2025-03,College Prep,11,2,11.0
+2025-03,Mentorship,10,1,7.2
+2025-04,English Learning,34,2,25.6
+2025-04,Technology Skills,15,1,7.9
+2025-04,College Prep,12,2,14.1
+2025-04,Mentorship,18,1,6.3
+2025-05,English Learning,37,3,43.8
+2025-05,Technology Skills,20,1,12.8
+2025-05,College Prep,12,1,8.0
+2025-05,Mentorship,18,2,18.3
+2025-06,English Learning,29,3,39.5
+2025-06,Technology Skills,19,3,28.6
+2025-06,College Prep,12,2,14.0
+2025-06,Mentorship,16,2,12.1
+2025-07,English Learning,32,4,52.9
+2025-07,Technology Skills,19,1,12.7
+2025-07,College Prep,11,1,6.0
+2025-07,Mentorship,15,1,8.2
+2025-08,English Learning,31,3,42.1
+2025-08,Technology Skills,19,1,12.2
+2025-08,College Prep,11,1,4.1
+2025-08,Mentorship,16,2,17.7
+2025-09,English Learning,25,2,24.7
+2025-09,Technology Skills,16,2,20.7
+2025-09,College Prep,13,1,5.1
+2025-09,Mentorship,18,1,9.3
+2025-10,English Learning,32,3,63.6
+2025-10,Technology Skills,20,2,19.9
+2025-10,College Prep,12,1,5.6
+2025-10,Mentorship,15,2,22.3
+2025-11,English Learning,37,3,75.9
+2025-11,Technology Skills,19,2,27.1
+2025-11,College Prep,12,2,13.3
+2025-11,Mentorship,17,2,13.6
+2025-12,English Learning,30,3,57.7
+2025-12,Technology Skills,21,1,15.7
+2025-12,College Prep,11,2,14.4
+2025-12,Mentorship,18,2,22.3
+2026-01,English Learning,31,3,54.0
+2026-01,Technology Skills,19,3,25.9
+2026-01,College Prep,13,1,7.0
+2026-01,Mentorship,13,1,7.0
+2026-02,English Learning,36,2,45.2
+2026-02,Technology Skills,20,3,32.9
+2026-02,College Prep,11,1,4.1
+2026-02,Mentorship,16,2,14.1
+2026-03,English Learning,34,4,80.8
+2026-03,Technology Skills,24,2,21.6
+2026-03,College Prep,11,1,7.1
+2026-03,Mentorship,16,2,15.9
+2026-04,English Learning,38,3,65.9
+2026-04,Technology Skills,18,2,19.1
+2026-04,College Prep,12,1,6.5
+2026-04,Mentorship,16,1,9.6
+2026-05,English Learning,40,2,55.2
+2026-05,Technology Skills,19,3,30.3
+2026-05,College Prep,16,1,6.8
+2026-05,Mentorship,17,1,9.1
+2026-06,English Learning,39,2,54.3
+2026-06,Technology Skills,18,1,8.2
+2026-06,College Prep,11,2,10.9
+2026-06,Mentorship,16,2,18.2

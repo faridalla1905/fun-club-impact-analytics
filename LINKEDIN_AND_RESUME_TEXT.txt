@@ -1,0 +1,10 @@
+LinkedIn Project Description:
+
+Fun Club Impact Analytics
+
+Built a data analytics project to measure the educational and community impact of Fun Club, a student-led initiative supporting Azerbaijani students through English learning, technology skills, mentorship, and college preparation. Used Python, Pandas, and Matplotlib to organize and visualize student participation, volunteer hours, instructional sessions, and program growth trends.
+
+Skills: Python, Pandas, Data Analysis, Data Visualization, Program Evaluation, Community Outreach, Leadership, GitHub
+
+Resume Bullet:
+- Built a Python-based impact analytics project for Fun Club to track student participation, volunteer hours, instructional sessions, and program growth across English learning, technology skills, mentorship, and college preparation.
